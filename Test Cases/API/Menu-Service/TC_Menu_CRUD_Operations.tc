@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Menu_CRUD_Operations</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ef62383b-d0f2-4847-98df-e7fdee49a585</testCaseGuid>
+</TestCaseEntity>

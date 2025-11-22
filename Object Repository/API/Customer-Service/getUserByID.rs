@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
    <description></description>
-   <name>getCustomers</name>
+   <name>getUserByID</name>
    <tag></tag>
-   <elementGuidId>70c1f9bf-9796-48c5-9e51-977f415974ac</elementGuidId>
+   <elementGuidId>ad80fd29-ff47-4e54-8763-73793f5a4a2f</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
