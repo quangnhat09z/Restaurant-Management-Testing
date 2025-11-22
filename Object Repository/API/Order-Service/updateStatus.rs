@@ -1,24 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
    <description></description>
-   <name>getOrderByID</name>
+   <name>updateStatus</name>
    <tag></tag>
-   <elementGuidId>6a843cbe-ec1a-4759-972e-100e96d9a64b</elementGuidId>
+   <elementGuidId>d4ce7bd6-2fd8-46b5-948a-d9ddd4f1d924</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
-   <autoUpdateContent>true</autoUpdateContent>
+   <autoUpdateContent>false</autoUpdateContent>
    <connectionTimeout>0</connectionTimeout>
    <followRedirects>true</followRedirects>
    <httpBody></httpBody>
-   <httpBodyContent></httpBodyContent>
-   <httpBodyType></httpBodyType>
+   <httpBodyContent>{
+  &quot;text&quot;: &quot;{\n    \&quot;status\&quot;: \&quot;preparing\&quot;\n  }&quot;,
+  &quot;contentType&quot;: &quot;application/json&quot;,
+  &quot;charset&quot;: &quot;UTF-8&quot;
+}</httpBodyContent>
+   <httpBodyType>text</httpBodyType>
+   <httpHeaderProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>Content-Type</name>
+      <type>Main</type>
+      <value>application/json</value>
+      <webElementGuid>67b356b7-00a9-44a6-8d0a-a4c3c7e7be98</webElementGuid>
+   </httpHeaderProperties>
    <katalonVersion>10.4.2</katalonVersion>
    <maxResponseSize>0</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
    <path></path>
-   <restRequestMethod>GET</restRequestMethod>
-   <restUrl>http://localhost:3001/orders/${orderId}</restUrl>
+   <restRequestMethod>PATCH</restRequestMethod>
+   <restUrl>http://localhost:3001/orders/${orderId}/status</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>
@@ -30,7 +42,7 @@
    <variables>
       <defaultValue>17</defaultValue>
       <description></description>
-      <id>c534184a-ab65-4b8c-bb78-129d4505b91e</id>
+      <id>b8dda13a-9248-4fe8-b0ea-17d0ba1af43f</id>
       <masked>false</masked>
       <name>orderId</name>
    </variables>

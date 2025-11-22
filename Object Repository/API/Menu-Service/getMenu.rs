@@ -1,39 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
    <description></description>
-   <name>getOrderByID</name>
+   <name>getMenu</name>
    <tag></tag>
-   <elementGuidId>6a843cbe-ec1a-4759-972e-100e96d9a64b</elementGuidId>
+   <elementGuidId>4e3b8869-a2e2-4c28-b711-b2ed0dac75bf</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
    <autoUpdateContent>true</autoUpdateContent>
-   <connectionTimeout>0</connectionTimeout>
+   <connectionTimeout>-1</connectionTimeout>
    <followRedirects>true</followRedirects>
    <httpBody></httpBody>
    <httpBodyContent></httpBodyContent>
    <httpBodyType></httpBodyType>
    <katalonVersion>10.4.2</katalonVersion>
-   <maxResponseSize>0</maxResponseSize>
+   <maxResponseSize>-1</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
    <path></path>
    <restRequestMethod>GET</restRequestMethod>
-   <restUrl>http://localhost:3001/orders/${orderId}</restUrl>
+   <restUrl>http://localhost:3001/orders</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>
    <soapRequestMethod></soapRequestMethod>
    <soapServiceEndpoint></soapServiceEndpoint>
    <soapServiceFunction></soapServiceFunction>
-   <socketTimeout>0</socketTimeout>
+   <socketTimeout>-1</socketTimeout>
    <useServiceInfoFromWsdl>true</useServiceInfoFromWsdl>
-   <variables>
-      <defaultValue>17</defaultValue>
-      <description></description>
-      <id>c534184a-ab65-4b8c-bb78-129d4505b91e</id>
-      <masked>false</masked>
-      <name>orderId</name>
-   </variables>
    <verificationScript>import static org.assertj.core.api.Assertions.*
 
 import com.kms.katalon.core.testobject.RequestObject
