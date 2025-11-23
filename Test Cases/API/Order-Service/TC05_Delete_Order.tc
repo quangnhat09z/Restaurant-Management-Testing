@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC_Get_All_Orders</name>
+   <name>TC05_Delete_Order</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>b9ab027b-6c1c-4efc-9e1a-9425350cddee</testCaseGuid>
+   <testCaseGuid>23be72e0-b731-4d8d-b175-8e26f5236de2</testCaseGuid>
 </TestCaseEntity>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
    <description></description>
-   <name>getOrderByID</name>
+   <name>getAllOrders</name>
    <tag></tag>
-   <elementGuidId>6a843cbe-ec1a-4759-972e-100e96d9a64b</elementGuidId>
+   <elementGuidId>c35dd57b-facb-4a18-a8c4-c6f5b4371072</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
@@ -18,7 +18,7 @@
    <migratedVersion>5.4.1</migratedVersion>
    <path></path>
    <restRequestMethod>GET</restRequestMethod>
-   <restUrl>http://localhost:3001/orders/${orderId}</restUrl>
+   <restUrl>http://localhost:3001/orders</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>
@@ -27,13 +27,6 @@
    <soapServiceFunction></soapServiceFunction>
    <socketTimeout>0</socketTimeout>
    <useServiceInfoFromWsdl>true</useServiceInfoFromWsdl>
-   <variables>
-      <defaultValue>17</defaultValue>
-      <description></description>
-      <id>c534184a-ab65-4b8c-bb78-129d4505b91e</id>
-      <masked>false</masked>
-      <name>orderId</name>
-   </variables>
    <verificationScript>import static org.assertj.core.api.Assertions.*
 
 import com.kms.katalon.core.testobject.RequestObject

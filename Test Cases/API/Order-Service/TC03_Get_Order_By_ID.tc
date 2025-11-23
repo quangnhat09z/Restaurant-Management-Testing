@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC_Create_Order</name>
+   <name>TC03_Get_Order_By_ID</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>814e35b8-ed87-4413-817e-1d15e93f55ae</testCaseGuid>
+   <testCaseGuid>ed0b11d6-23a2-44aa-b583-b2445942c4e8</testCaseGuid>
 </TestCaseEntity>

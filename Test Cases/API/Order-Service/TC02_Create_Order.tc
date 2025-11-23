@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC_Order_Complete_Flow</name>
+   <name>TC02_Create_Order</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>ee244677-4b7a-4b29-b802-af85c03b3416</testCaseGuid>
+   <testCaseGuid>814e35b8-ed87-4413-817e-1d15e93f55ae</testCaseGuid>
 </TestCaseEntity>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC_Get_Order_By_ID</name>
+   <name>TC01_Get_All_Orders</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>ed0b11d6-23a2-44aa-b583-b2445942c4e8</testCaseGuid>
+   <testCaseGuid>b9ab027b-6c1c-4efc-9e1a-9425350cddee</testCaseGuid>
 </TestCaseEntity>
