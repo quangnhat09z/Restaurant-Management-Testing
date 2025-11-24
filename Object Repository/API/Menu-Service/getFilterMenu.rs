@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
    <description></description>
-   <name>getUsers</name>
+   <name>getFilterMenu</name>
    <tag></tag>
-   <elementGuidId>70c1f9bf-9796-48c5-9e51-977f415974ac</elementGuidId>
+   <elementGuidId>c87f3317-5aed-4b33-9337-c15576df30de</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
@@ -18,7 +18,7 @@
    <migratedVersion>5.4.1</migratedVersion>
    <path></path>
    <restRequestMethod>GET</restRequestMethod>
-   <restUrl>http://localhost:3003/customers</restUrl>
+   <restUrl>http://localhost:3002/menu/filter</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>
@@ -27,13 +27,6 @@
    <soapServiceFunction></soapServiceFunction>
    <socketTimeout>0</socketTimeout>
    <useServiceInfoFromWsdl>true</useServiceInfoFromWsdl>
-   <variables>
-      <defaultValue>1</defaultValue>
-      <description></description>
-      <id>e05e0569-3a33-4851-9f68-d312b8230d55</id>
-      <masked>false</masked>
-      <name>customerId</name>
-   </variables>
    <verificationScript>import static org.assertj.core.api.Assertions.*
 
 import com.kms.katalon.core.testobject.RequestObject

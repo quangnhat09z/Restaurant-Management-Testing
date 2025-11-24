@@ -96,7 +96,7 @@ try {
     // Verify required fields
     assert orderData.OrderID != null : "OrderID is missing"
     assert orderData.CustomerID.toInteger() == customerID : "CustomerID mismatch"
-    assert orderData.CustomerName == customerName : "CustomerName mismatch" //Có lỗi
+    assert orderData.CustomerName == customerName : "CustomerName mismatch" 
     assert orderData.OrderStatus != null : "OrderStatus is missing"
     assert orderData.TotalPrice != null : "TotalPrice is missing"
     
