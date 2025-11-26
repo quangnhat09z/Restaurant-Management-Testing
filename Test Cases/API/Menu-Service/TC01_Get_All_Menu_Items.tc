@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC_Update_Menu_Item</name>
+   <name>TC01_Get_All_Menu_Items</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>6d4ee88a-f0dd-4ea3-8720-d3cb237b1dae</testCaseGuid>
+   <testCaseGuid>c0cf1d03-5efe-400a-9813-253ffbc01304</testCaseGuid>
 </TestCaseEntity>

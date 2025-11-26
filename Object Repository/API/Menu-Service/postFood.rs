@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
    <description></description>
-   <name>postOrder</name>
+   <name>postFood</name>
    <tag></tag>
-   <elementGuidId>554b31b1-724a-4cf1-bbc9-9d3dc94abb7c</elementGuidId>
+   <elementGuidId>811649d8-c440-486f-b4f4-0c27c0b80406</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
-   <autoUpdateContent>false</autoUpdateContent>
-   <connectionTimeout>0</connectionTimeout>
+   <autoUpdateContent>true</autoUpdateContent>
+   <connectionTimeout>-1</connectionTimeout>
    <followRedirects>true</followRedirects>
    <httpBody></httpBody>
    <httpBodyContent>{
-  &quot;text&quot;: &quot;{\n    \&quot;CustomerID\&quot;: 999,\n    \&quot;UserName\&quot;: \&quot;TestKatalon\&quot;,\n    \&quot;ContactNumber\&quot;: \&quot;0000000000\&quot;,\n    \&quot;TableNumber\&quot;: 99,\n    \&quot;Cart\&quot;: [\n      {\n        \&quot;id\&quot;: 8,\n        \&quot;name\&quot;: \&quot;Miso\&quot;,\n        \&quot;Quantity\&quot;: 2,\n        \&quot;price\&quot;: 30000\n      }\n    ]\n  }&quot;,
+  &quot;text&quot;: &quot;{\n  \&quot;name\&quot;: \&quot;Phở bò đặc biệt\&quot;,\n  \&quot;ingredients\&quot;: [\&quot;bánh phở\&quot;, \&quot;thịt bò\&quot;, \&quot;hành lá\&quot;, \&quot;nước dùng\&quot;],\n  \&quot;instructions\&quot;: [\&quot;Đun sôi nước dùng\&quot;, \&quot;Chần bánh phở\&quot;, \&quot;Thêm thịt bò\&quot;],\n  \&quot;prepTimeMinutes\&quot;: 10,\n  \&quot;cookTimeMinutes\&quot;: 30,\n  \&quot;servings\&quot;: 2,\n  \&quot;difficulty\&quot;: \&quot;Medium\&quot;,\n  \&quot;cuisine\&quot;: \&quot;Vietnamese\&quot;,\n  \&quot;caloriesPerServing\&quot;: 450,\n  \&quot;tags\&quot;: [\&quot;noodle\&quot;, \&quot;soup\&quot;],\n  \&quot;userId\&quot;: 1,\n  \&quot;image\&quot;: \&quot;https://thanhphuoc.com/pho.jpg\&quot;,\n  \&quot;rating\&quot;: 4.8,\n  \&quot;reviewCount\&quot;: 230,\n  \&quot;mealType\&quot;: [\&quot;Lunch\&quot;],\n  \&quot;price\&quot;: 60000\n}&quot;,
   &quot;contentType&quot;: &quot;application/json&quot;,
   &quot;charset&quot;: &quot;UTF-8&quot;
 }</httpBodyContent>
@@ -23,21 +23,21 @@
       <name>Content-Type</name>
       <type>Main</type>
       <value>application/json</value>
-      <webElementGuid>18498251-9013-4dfb-9333-4fd50edd0277</webElementGuid>
+      <webElementGuid>6eb42e89-2941-4a7c-b69b-92825b2f8651</webElementGuid>
    </httpHeaderProperties>
    <katalonVersion>10.4.2</katalonVersion>
-   <maxResponseSize>0</maxResponseSize>
+   <maxResponseSize>-1</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
    <path></path>
    <restRequestMethod>POST</restRequestMethod>
-   <restUrl>http://localhost:3001/orders</restUrl>
+   <restUrl>http://localhost:3002/menu</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>
    <soapRequestMethod></soapRequestMethod>
    <soapServiceEndpoint></soapServiceEndpoint>
    <soapServiceFunction></soapServiceFunction>
-   <socketTimeout>0</socketTimeout>
+   <socketTimeout>-1</socketTimeout>
    <useServiceInfoFromWsdl>true</useServiceInfoFromWsdl>
    <verificationScript>import static org.assertj.core.api.Assertions.*
 
