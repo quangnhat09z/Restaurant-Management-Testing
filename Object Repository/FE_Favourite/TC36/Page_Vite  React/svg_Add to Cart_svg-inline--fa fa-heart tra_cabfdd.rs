@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Add to Cart_svg-inline--fa fa-heart tra_cabfdd</name>
+   <tag></tag>
+   <elementGuidId>65f04175-47c5-4755-9598-37bbaf535f0d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>svg.svg-inline--fa.fa-heart.transition.duration-200.text-gray-300</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to Cart'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Classic Margherita Pizza200788đAdd to Cart$/ >> internal:label=&quot;Favorite this item&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>45e8c118-96e1-4877-880c-6b0a36f8a9ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>dc75ff13-b8be-4718-a0ea-0a8c994db1ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>7cf5fbb3-af38-4a58-88d4-b16bacb15d52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-prefix</name>
+      <type>Main</type>
+      <value>far</value>
+      <webElementGuid>7115db0d-dd58-47bb-8775-eca378302146</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-icon</name>
+      <type>Main</type>
+      <value>heart</value>
+      <webElementGuid>de11e4a3-d94d-4052-882d-25657fc3c270</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>svg-inline--fa fa-heart transition duration-200 text-gray-300</value>
+      <webElementGuid>1d18bbe6-3d69-4378-ab3d-e12b5fb3d789</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>5e37e7a2-879d-4ac6-a6b9-974f11de6059</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>b300523f-5e10-48d3-8db3-b05db3b4bd67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 512 512</value>
+      <webElementGuid>11b92248-ccd2-473a-b2bf-539480df8895</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;min-h-screen transition duration-300 bg-white text-black&quot;]/div[@class=&quot;min-h-screen bg-white text-black&quot;]/div[@class=&quot;container mx-auto p-4&quot;]/div[@class=&quot;flex flex-col lg:flex-row gap-6&quot;]/div[@class=&quot;flex-1&quot;]/div[@class=&quot;grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 p-4&quot;]/div[@class=&quot;menu-item shadow-lg rounded-lg p-4 transform transition duration-300 hover:scale-105 hover:shadow-xl bg-white&quot;]/button[@class=&quot;mt-2 text-lg ml-2&quot;]/svg[@class=&quot;svg-inline--fa fa-heart transition duration-200 text-gray-300&quot;]</value>
+      <webElementGuid>30d27781-401f-4323-975c-8328e2fd3234</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to Cart'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>efa21eb0-4e34-4866-a19c-7f46867ade38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Classic Margherita Pizza'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>3f193a19-9940-4a2b-8625-e0b7a673c87b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vegetarian Stir-Fry'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>aa6aa399-5507-4a59-a76b-43c4a40d585d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to Cart'])[2]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>8c18c50c-edfd-4ae4-9589-810c8988f766</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

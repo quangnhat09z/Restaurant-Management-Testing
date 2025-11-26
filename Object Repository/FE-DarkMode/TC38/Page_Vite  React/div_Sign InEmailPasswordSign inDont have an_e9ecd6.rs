@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sign InEmailPasswordSign inDont have an_e9ecd6</name>
+   <tag></tag>
+   <elementGuidId>6d7b19e7-a334-4bd8-8470-222c91258fae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.min-h-screen.flex.items-center.justify-center.bg-gray-50</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;login-page&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>51339a1e-b3ae-4aaa-91f1-b6e30cc8e507</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>min-h-screen flex items-center justify-center bg-gray-50</value>
+      <webElementGuid>cbb394ee-a4b9-4779-b7b8-16bd8362688b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>login-page</value>
+      <webElementGuid>cee799e0-8a1f-48fa-a926-b5081842beb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign InEmailPasswordSign inDon't have an account? Register</value>
+      <webElementGuid>aca9c91b-603a-4d4a-9e76-1b316dd65008</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;min-h-screen transition duration-300 bg-white text-black&quot;]/div[@class=&quot;min-h-screen flex items-center justify-center bg-gray-50&quot;]</value>
+      <webElementGuid>15076cc3-62a4-4c9a-9310-720d92a56a08</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div</value>
+      <webElementGuid>d6956a5d-8933-4d91-a5b8-610294b8c81d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::div[1]</value>
+      <webElementGuid>8e7c5ad1-d2fd-4e7d-8678-a7f6f0813cfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Favorites'])[1]/following::div[1]</value>
+      <webElementGuid>1e17e578-3694-4604-a4ec-2aae74ee02eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div</value>
+      <webElementGuid>176fbb9d-bf1d-4672-969f-dbc65798929a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Sign InEmailPasswordSign inDon&quot; , &quot;'&quot; , &quot;t have an account? Register&quot;) or . = concat(&quot;Sign InEmailPasswordSign inDon&quot; , &quot;'&quot; , &quot;t have an account? Register&quot;))]</value>
+      <webElementGuid>6d9c5b40-1fda-42ee-9155-fec2b1a17370</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
