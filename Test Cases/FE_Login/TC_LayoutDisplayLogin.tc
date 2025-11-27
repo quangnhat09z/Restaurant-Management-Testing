@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_LayoutDisplayLogin</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e779742d-10ed-42a5-b6e0-c1cda5ec1834</testCaseGuid>
+</TestCaseEntity>
