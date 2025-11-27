@@ -23,6 +23,8 @@ WebUI.navigateToUrl('http://localhost:8080/login')
 
 WebUI.click(findTestObject('Object Repository/FE-DarkMode/TC40/Page_Vite  React/svg_Favorites_svg-inline--fa fa-moon'))
 
+WebUI.delay(1)
+
 WebUI.refresh()
 
 WebUI.verifyElementAttributeValue(findTestObject('Object Repository/FE-DarkMode/TC40/Page_Vite  React/div_Sign InEmailPasswordSign inDont have an_e9ecd6'), 
