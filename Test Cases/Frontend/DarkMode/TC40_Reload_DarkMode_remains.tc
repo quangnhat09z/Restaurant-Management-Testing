@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC40_Reload_DarkMode_remains</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bed50ccd-14fb-42a2-aee3-6cd8ec53a550</testCaseGuid>
+</TestCaseEntity>
