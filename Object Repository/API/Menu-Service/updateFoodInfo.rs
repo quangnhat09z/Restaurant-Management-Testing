@@ -12,7 +12,7 @@
    <followRedirects>true</followRedirects>
    <httpBody></httpBody>
    <httpBodyContent>{
-  &quot;text&quot;: &quot;{\n\t\&quot;cuisine\&quot;: \&quot;Italian\&quot;,\n    \&quot;rating\&quot;: 4.9\n}&quot;,
+  &quot;text&quot;: &quot;{\n\t\&quot;cuisine\&quot;: \&quot;VN\&quot;,\n    \&quot;rating\&quot;: 5.0\n}&quot;,
   &quot;contentType&quot;: &quot;application/json&quot;,
   &quot;charset&quot;: &quot;UTF-8&quot;
 }</httpBodyContent>

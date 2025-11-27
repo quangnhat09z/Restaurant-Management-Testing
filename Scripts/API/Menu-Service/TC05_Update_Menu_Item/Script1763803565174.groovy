@@ -17,9 +17,9 @@ println("="*70)
 println("\n[STEP 1] Setting up test data...")
 println("-"*70)
 
-def itemId = 8  // Item to update
-def newCuisine = "Italian"
-def newRating = 4.9
+def itemId = 55  // Item to update
+def newCuisine = "VN"
+def newRating = 5.0
 
 println("Test Data:")
 println("  - Item ID: ${itemId}")

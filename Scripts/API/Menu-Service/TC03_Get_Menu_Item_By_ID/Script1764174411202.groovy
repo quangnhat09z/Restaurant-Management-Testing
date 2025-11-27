@@ -145,8 +145,8 @@ if (menuItem.image) {
 // -----------------------------
 // 7. SAVE FOR LATER TESTS
 // -----------------------------
-println("\n[STEP 7] Saving item ID for later tests...")
-println("-"*70)
+//println("\n[STEP 7] Saving item ID for later tests...")
+//println("-"*70)
 
 //GlobalVariable.MenuItemID = menuItem.id
 //println("✓ Saved MenuItemID to GlobalVariable: ${GlobalVariable.MenuItemID}")
