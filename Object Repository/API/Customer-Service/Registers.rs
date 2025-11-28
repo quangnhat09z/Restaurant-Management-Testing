@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
    <description></description>
-   <name>updateUserState</name>
+   <name>Registers</name>
    <tag></tag>
-   <elementGuidId>59a1d6a7-dc0c-4e36-91e9-50f13928f7a1</elementGuidId>
+   <elementGuidId>7654d8eb-4780-42e0-bb8f-36f5d3dc6fdd</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
+   <authorizationRequest>
+      <authorizationInfo>
+         <entry>
+            <key>bearerToken</key>
+            <value>eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOjEsImVtYWlsIjoidXNlcjFAZXhhbXBsZS5jb20iLCJ1c2VyTmFtZSI6Ik5ndXllbiBUaGFuaCBQaHVvYyIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc2NDI5NTQxNiwiZXhwIjoxNzY0Mjk2MzE2fQ.5T63W8cJQnty8OzSLT60MTu0_0ZwQ-k2f0OSK8ld4fU</value>
+         </entry>
+      </authorizationInfo>
+      <authorizationType>Bearer</authorizationType>
+   </authorizationRequest>
    <autoUpdateContent>false</autoUpdateContent>
    <connectionTimeout>0</connectionTimeout>
    <followRedirects>true</followRedirects>
    <httpBody></httpBody>
    <httpBodyContent>{
-  &quot;text&quot;: &quot;{\n  \&quot;isActive\&quot;:true\n}&quot;,
+  &quot;text&quot;: &quot;{\n  \&quot;userName\&quot;: \&quot;Nguyen Van A\&quot;,\n  \&quot;email\&quot;: \&quot;vanc@example1.com\&quot;,\n  \&quot;contactNumber\&quot;: \&quot;0987654321\&quot;,\n  \&quot;password\&quot;: \&quot;123456\&quot;,\n  \&quot;address\&quot;: \&quot;Hanoi\&quot;\n}\n&quot;,
   &quot;contentType&quot;: &quot;application/json&quot;,
   &quot;charset&quot;: &quot;UTF-8&quot;
 }</httpBodyContent>
@@ -20,17 +29,25 @@
    <httpHeaderProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>Authorization</name>
+      <type>Main</type>
+      <value>Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOjEsImVtYWlsIjoidXNlcjFAZXhhbXBsZS5jb20iLCJ1c2VyTmFtZSI6Ik5ndXllbiBUaGFuaCBQaHVvYyIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc2NDI5NTQxNiwiZXhwIjoxNzY0Mjk2MzE2fQ.5T63W8cJQnty8OzSLT60MTu0_0ZwQ-k2f0OSK8ld4fU</value>
+      <webElementGuid>577ccd24-f629-47d7-b8ec-58fc3f529595</webElementGuid>
+   </httpHeaderProperties>
+   <httpHeaderProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>Content-Type</name>
       <type>Main</type>
       <value>application/json</value>
-      <webElementGuid>f9abeb3e-19d6-421f-ab53-60cac45bdf15</webElementGuid>
+      <webElementGuid>4c02c4e3-278d-4fe8-8de7-e9510eec358e</webElementGuid>
    </httpHeaderProperties>
    <katalonVersion>10.4.2</katalonVersion>
    <maxResponseSize>0</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
    <path></path>
-   <restRequestMethod>PATCH</restRequestMethod>
-   <restUrl>http://localhost:3003/customers/${userId}/status</restUrl>
+   <restRequestMethod>POST</restRequestMethod>
+   <restUrl>http://localhost:3003/customers/register</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>
@@ -39,13 +56,6 @@
    <soapServiceFunction></soapServiceFunction>
    <socketTimeout>0</socketTimeout>
    <useServiceInfoFromWsdl>true</useServiceInfoFromWsdl>
-   <variables>
-      <defaultValue>8</defaultValue>
-      <description></description>
-      <id>a42952a0-ea4c-478e-9576-27bc820bd00d</id>
-      <masked>false</masked>
-      <name>userId</name>
-   </variables>
    <verificationScript>import static org.assertj.core.api.Assertions.*
 
 import com.kms.katalon.core.testobject.RequestObject

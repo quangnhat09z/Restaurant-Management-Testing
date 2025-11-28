@@ -1,24 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
    <description></description>
-   <name>deleteUser</name>
+   <name>Get User By ID</name>
    <tag></tag>
-   <elementGuidId>95fae4ee-e2a6-46ce-a81c-ed386dfa939e</elementGuidId>
+   <elementGuidId>b1a9a65d-f1af-4623-ae64-8b376cf7a5a6</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
+   <authorizationRequest>
+      <authorizationInfo>
+         <entry>
+            <key>bearerToken</key>
+            <value>eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOjEsImVtYWlsIjoidXNlcjFAZXhhbXBsZS5jb20iLCJ1c2VyTmFtZSI6IlVzZXIxIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzY0Mjk2MDQyLCJleHAiOjE3NjQyOTY5NDJ9.PZHBMXdQwEYC2N7NqXo_AyigJiL1v7GR57yppb8PA7s</value>
+         </entry>
+      </authorizationInfo>
+      <authorizationType>Bearer</authorizationType>
+   </authorizationRequest>
    <autoUpdateContent>true</autoUpdateContent>
    <connectionTimeout>-1</connectionTimeout>
    <followRedirects>true</followRedirects>
    <httpBody></httpBody>
    <httpBodyContent></httpBodyContent>
    <httpBodyType></httpBodyType>
+   <httpHeaderProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>Authorization</name>
+      <type>Main</type>
+      <value>Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOjEsImVtYWlsIjoidXNlcjFAZXhhbXBsZS5jb20iLCJ1c2VyTmFtZSI6IlVzZXIxIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzY0Mjk2MDQyLCJleHAiOjE3NjQyOTY5NDJ9.PZHBMXdQwEYC2N7NqXo_AyigJiL1v7GR57yppb8PA7s</value>
+      <webElementGuid>33b3fbab-394b-4f93-b917-c0c5587a6900</webElementGuid>
+   </httpHeaderProperties>
    <katalonVersion>10.4.2</katalonVersion>
    <maxResponseSize>-1</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
    <path></path>
-   <restRequestMethod>DELETE</restRequestMethod>
-   <restUrl>http://localhost:3003/customers/8</restUrl>
+   <restRequestMethod>GET</restRequestMethod>
+   <restUrl>http://localhost:3003/customers/3</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>
