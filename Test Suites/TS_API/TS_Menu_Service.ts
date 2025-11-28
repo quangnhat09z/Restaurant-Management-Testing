@@ -39,11 +39,4 @@
       <testCaseId>Test Cases/API/Menu-Service/TC04_Delete_Menu_Item</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
-   <testCaseLink>
-      <guid>f19bc708-15de-4968-ac70-08b7072d6087</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/API/Menu-Service/TC06_Menu_CRUD_Operations</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
 </TestSuiteEntity>
