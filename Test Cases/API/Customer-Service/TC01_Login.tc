@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC_Get_All_Customers</name>
+   <name>TC01_Login</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>6b6b8792-30ec-4daa-9e57-a89434e88da2</testCaseGuid>
+   <testCaseGuid>8208c447-48b6-406e-8269-484b25a54309</testCaseGuid>
 </TestCaseEntity>
