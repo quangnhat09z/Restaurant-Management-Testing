@@ -32,7 +32,7 @@ def jsonResponse = new groovy.json.JsonSlurper().parseText(response.getResponseT
 // Display order details
 println("\nOrder Details:")
 println("  - ID: ${jsonResponse.id}")
-println("  - Customer ID: ${jsonResponse.customerId}")
+println("  - User ID: ${jsonResponse.UserId}")
 println("  - Status: ${jsonResponse.status}")
 println("  - Total Amount: ${jsonResponse.totalAmount}đ")
 println("  - Table Number: ${jsonResponse.tableNumber}")

@@ -44,7 +44,7 @@ if (orders.size() > 0) {
     // Verify first order structure
     def firstOrder = orders[0]
     assert firstOrder.OrderID != null : "OrderID is missing"
-    assert firstOrder.CustomerID != null : "CustomerID is missing"
+    assert firstOrder.UserID!= null : "UserIDis missing"
     assert firstOrder.OrderStatus != null : "OrderStatus is missing"
 
     println("✓ Order structure is valid")

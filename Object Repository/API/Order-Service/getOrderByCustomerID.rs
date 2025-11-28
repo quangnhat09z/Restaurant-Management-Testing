@@ -18,7 +18,7 @@
    <migratedVersion>5.4.1</migratedVersion>
    <path></path>
    <restRequestMethod>GET</restRequestMethod>
-   <restUrl>http://localhost:3001/orders/customer/${customerId}</restUrl>
+   <restUrl>http://localhost:3001/orders/customer/${userId}</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>
@@ -32,7 +32,7 @@
       <description></description>
       <id>c7eaa1f1-f5f1-4d47-adcb-c6438cc14d37</id>
       <masked>false</masked>
-      <name>customerId</name>
+      <name>userId</name>
    </variables>
    <verificationScript>import static org.assertj.core.api.Assertions.*
 

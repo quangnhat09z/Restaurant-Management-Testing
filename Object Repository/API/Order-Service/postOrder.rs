@@ -12,7 +12,7 @@
    <followRedirects>true</followRedirects>
    <httpBody></httpBody>
    <httpBodyContent>{
-  &quot;text&quot;: &quot;{\n    \&quot;CustomerID\&quot;: 999,\n    \&quot;UserName\&quot;: \&quot;TestKatalon\&quot;,\n    \&quot;ContactNumber\&quot;: \&quot;0000000000\&quot;,\n    \&quot;TableNumber\&quot;: 99,\n    \&quot;Cart\&quot;: [\n      {\n        \&quot;id\&quot;: 8,\n        \&quot;name\&quot;: \&quot;Miso\&quot;,\n        \&quot;Quantity\&quot;: 2,\n        \&quot;price\&quot;: 30000\n      }\n    ]\n  }&quot;,
+  &quot;text&quot;: &quot;{\n    \&quot;UserID\&quot;: 999,\n    \&quot;UserName\&quot;: \&quot;TestKatalon\&quot;,\n    \&quot;ContactNumber\&quot;: \&quot;0000000000\&quot;,\n    \&quot;TableNumber\&quot;: 99,\n    \&quot;Cart\&quot;: [\n      {\n        \&quot;id\&quot;: 8,\n        \&quot;name\&quot;: \&quot;Miso\&quot;,\n        \&quot;Quantity\&quot;: 2,\n        \&quot;price\&quot;: 30000\n      }\n    ]\n  }&quot;,
   &quot;contentType&quot;: &quot;application/json&quot;,
   &quot;charset&quot;: &quot;UTF-8&quot;
 }</httpBodyContent>

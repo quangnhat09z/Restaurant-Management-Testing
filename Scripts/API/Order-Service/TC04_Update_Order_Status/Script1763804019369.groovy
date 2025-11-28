@@ -10,8 +10,8 @@ println("="*60)
 // -----------------------------
 // 1. INPUT
 // -----------------------------
-def orderId = 17   // lấy từ GlobalVariable nếu có
-def newStatus = "delivered"
+def orderId = 1   // lấy từ GlobalVariable nếu có
+def newStatus = "preparing"
 
 // Danh sách status hợp lệ
 def statusFlow = ['pending', 'preparing', 'ready', 'delivered', 'cancelled']

@@ -46,11 +46,4 @@
       <testCaseId>Test Cases/API/Order-Service/TC05_Delete_Order</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
-   <testCaseLink>
-      <guid>bc2a219d-1d1f-430d-b7cc-34793d1f095e</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
-      <testCaseId>Test Cases/API/Order-Service/TC06_Order_Complete_Flow</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
 </TestSuiteEntity>

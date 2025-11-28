@@ -12,8 +12,8 @@ println("=" * 60)
 // -----------------------------
 // 1. TEST DATA (REQUEST BODY)
 // -----------------------------
-def customerID = 999
-def customerName = "TestKatalon"
+def UserID = 999
+def UserName = "TestKatalon"
 def contactNumber = "0000000000"
 def tableNumber = 99
 
@@ -27,8 +27,8 @@ def cart = [
 ]
 
 println("Request Data:")
-println("- CustomerID: ${customerID}")
-println("- CustomerName: ${customerName}")
+println("- UserID: ${UserID}")
+println("- UserName: ${UserName}")
 println("- TableNumber: ${tableNumber}")
 println("- Cart: ${cart}")
 
@@ -39,8 +39,8 @@ ResponseObject response = WS.sendRequest(
 	findTestObject(
 		'API/Order-Service/postOrder',
 		[
-			'CustomerID'   : customerID,
-			'CustomerName' : customerName,
+			'UserID'   : UserID,
+			'UserName' : UserName,
 			'ContactNumber': contactNumber,
 			'TableNumber'  : tableNumber,
 			'Cart'          : cart
@@ -72,8 +72,8 @@ assert orderData != null : " Data field is missing"
 // 4. ASSERT ORDER INFO
 // -----------------------------
 assert orderData.OrderID != null : " OrderID is missing"
-assert orderData.CustomerID.toInteger() == customerID : " CustomerID mismatch"
-assert orderData.CustomerName == customerName : " CustomerName mismatch"
+assert orderData.UserID.toInteger() == UserID : " UserID mismatch"
+assert orderData.UserName == UserName : " UserName mismatch"
 assert orderData.ContactNumber == contactNumber : " ContactNumber mismatch"
 assert orderData.TableNumber.toInteger() == tableNumber : " TableNumber mismatch"
 assert orderData.OrderStatus != null : " OrderStatus missing"
