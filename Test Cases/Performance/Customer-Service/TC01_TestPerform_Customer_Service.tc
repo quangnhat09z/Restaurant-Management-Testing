@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_TestPerform_Customer_Service</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>486e279b-d905-4b73-a373-5c0c57b9873a</testCaseGuid>
+</TestCaseEntity>
