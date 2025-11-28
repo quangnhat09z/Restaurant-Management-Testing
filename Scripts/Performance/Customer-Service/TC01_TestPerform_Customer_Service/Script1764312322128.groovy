@@ -5,7 +5,11 @@ import com.kms.katalon.core.testobject.ResponseObject
 
 // Danh sách API
 Map<String, RequestObject> apiList = [
-    'Get User By ID'      : findTestObject('API/Customer-Service/getUserByID'),
+    'Get All Users'       : findTestObject('API/Customer-Service/getAllUsers'),
+	'Login'       		  : findTestObject('API/Customer-Service/Login'),
+//	'Register'      	  : findTestObject('API/Customer-Service/Registers'),
+	'Update Status Active': findTestObject('API/Customer-Service/updateStatusActive'),
+	'Get User By ID'      : findTestObject('API/Customer-Service/getUserByID'),
     'Get Role By ID'      : findTestObject('API/Customer-Service/getRoleByID'),
     'Update User By ID'   : findTestObject('API/Customer-Service/updateUserByID'),
     'Update Status Active': findTestObject('API/Customer-Service/updateStatusActive'),

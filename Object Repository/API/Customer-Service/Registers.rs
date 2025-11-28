@@ -21,7 +21,7 @@
    <followRedirects>true</followRedirects>
    <httpBody></httpBody>
    <httpBodyContent>{
-  &quot;text&quot;: &quot;{\n  \&quot;userName\&quot;: \&quot;Nguyen Van A\&quot;,\n  \&quot;email\&quot;: \&quot;vanc@example1.com\&quot;,\n  \&quot;contactNumber\&quot;: \&quot;0987654321\&quot;,\n  \&quot;password\&quot;: \&quot;123456\&quot;,\n  \&quot;address\&quot;: \&quot;Hanoi\&quot;\n}\n&quot;,
+  &quot;text&quot;: &quot;{\n  \&quot;userName\&quot;: \&quot;Nguyen Van A\&quot;,\n  \&quot;email\&quot;: \&quot;vanc@example3.com\&quot;,\n  \&quot;contactNumber\&quot;: \&quot;0987654321\&quot;,\n  \&quot;password\&quot;: \&quot;123456\&quot;,\n  \&quot;address\&quot;: \&quot;Hanoi\&quot;\n}\n&quot;,
   &quot;contentType&quot;: &quot;application/json&quot;,
   &quot;charset&quot;: &quot;UTF-8&quot;
 }</httpBodyContent>

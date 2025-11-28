@@ -67,4 +67,11 @@
       <testCaseId>Test Cases/API/Customer-Service/TC08_Delete_User</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
+   <testCaseLink>
+      <guid>6c5351de-0f87-492c-ad80-34b8da454733</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Performance/Customer-Service/TC01_TestPerform_Customer_Service</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
 </TestSuiteEntity>
