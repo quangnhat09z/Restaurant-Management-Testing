@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Classic Margherita Pizza x1</name>
+   <tag></tag>
+   <elementGuidId>a8cdd5b5-44ca-4272-896e-7ff30d7fe0bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.text-gray-900</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[4]/div/div[3]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Classic Margherita Pizza x1&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5bc2fe73-55e2-402d-8002-10e9357eb9b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-gray-900</value>
+      <webElementGuid>2cc9ff15-8987-4c82-a80f-bf856e0d1af0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Classic Margherita Pizza x1</value>
+      <webElementGuid>4171b566-1781-4379-a55d-2c6bae0c6d1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;min-h-screen transition duration-300 bg-white text-black&quot;]/div[@class=&quot;min-h-screen p-4 bg-gray-50&quot;]/div[@class=&quot;max-w-7xl mx-auto&quot;]/div[@class=&quot;space-y-4&quot;]/div[@class=&quot;rounded-lg shadow-lg p-6 mb-4 bg-white&quot;]/div[@class=&quot;mb-4&quot;]/div[@class=&quot;flex justify-between p-3 rounded mb-2 bg-gray-50&quot;]/span[@class=&quot;text-gray-900&quot;]</value>
+      <webElementGuid>cec49527-f2ab-4a57-8782-74e7fc688ef8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[4]/div/div[3]/div/span</value>
+      <webElementGuid>5a36a26e-a558-4b7a-b590-0de4da6ecd96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Items (4)'])[1]/following::span[1]</value>
+      <webElementGuid>d4551e37-0506-4042-a5de-318e9126fbdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PENDING'])[1]/following::span[1]</value>
+      <webElementGuid>48825301-c56e-45ce-bea3-b9fd6b9d98df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Classic Margherita Pizza']/parent::*</value>
+      <webElementGuid>9bce9836-18a6-4685-bc82-749aa7a610e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[3]/div/span</value>
+      <webElementGuid>6723ebd8-d811-495a-ab20-c0b4b92c5049</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Classic Margherita Pizza x1' or . = 'Classic Margherita Pizza x1')]</value>
+      <webElementGuid>d5d7bfa8-0ec0-48c8-83f8-c78fe8f5d109</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

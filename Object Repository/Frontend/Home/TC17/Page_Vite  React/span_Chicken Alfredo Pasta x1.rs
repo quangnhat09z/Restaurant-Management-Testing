@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Chicken Alfredo Pasta x1</name>
+   <tag></tag>
+   <elementGuidId>38d4263e-2271-4daa-bb93-981f6dd4ffe0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[4]/div/div[3]/div[4]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Chicken Alfredo Pasta x1&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4ecd9767-7e97-497b-9d7d-8c0904451afb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-gray-900</value>
+      <webElementGuid>11ccf50e-a56c-4c85-94f4-fa8371a2c292</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Chicken Alfredo Pasta x1</value>
+      <webElementGuid>4022bc82-276d-4b09-8845-2929716635f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;min-h-screen transition duration-300 bg-white text-black&quot;]/div[@class=&quot;min-h-screen p-4 bg-gray-50&quot;]/div[@class=&quot;max-w-7xl mx-auto&quot;]/div[@class=&quot;space-y-4&quot;]/div[@class=&quot;rounded-lg shadow-lg p-6 mb-4 bg-white&quot;]/div[@class=&quot;mb-4&quot;]/div[@class=&quot;flex justify-between p-3 rounded mb-2 bg-gray-50&quot;]/span[@class=&quot;text-gray-900&quot;]</value>
+      <webElementGuid>3c6c2d33-7720-480b-94aa-0a5281bdbbec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[4]/div/div[3]/div[4]/span</value>
+      <webElementGuid>3e16face-b072-47d7-a593-fe3a65970f32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Preparing'])[1]/preceding::span[2]</value>
+      <webElementGuid>949f9590-71f4-41a6-8711-66cb565ed2ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order #3'])[1]/preceding::span[2]</value>
+      <webElementGuid>0eb4f769-daa5-4ad1-a696-a895a2d7d400</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Chicken Alfredo Pasta']/parent::*</value>
+      <webElementGuid>cca84bd9-97e1-4aed-8b47-ebb62d9f7939</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/span</value>
+      <webElementGuid>9799b8fe-b92c-402e-b0ce-0bd4932d23ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Chicken Alfredo Pasta x1' or . = 'Chicken Alfredo Pasta x1')]</value>
+      <webElementGuid>d1ba0d1f-bcb4-4d6f-8daf-3622d1a4f8f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

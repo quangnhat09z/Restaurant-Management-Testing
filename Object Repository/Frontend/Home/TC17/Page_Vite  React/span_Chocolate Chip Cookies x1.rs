@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Chocolate Chip Cookies x1</name>
+   <tag></tag>
+   <elementGuidId>b9d32791-d736-4723-9a40-684919df34c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[4]/div/div[3]/div[3]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Chocolate Chip Cookies x1&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6913e70a-667a-44b4-a0ee-af611a533d0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-gray-900</value>
+      <webElementGuid>02c230d5-3ccc-45fa-8894-e3d86cc72033</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Chocolate Chip Cookies x1</value>
+      <webElementGuid>542160b9-4e36-41ae-940e-190bd6a1dfe2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;min-h-screen transition duration-300 bg-white text-black&quot;]/div[@class=&quot;min-h-screen p-4 bg-gray-50&quot;]/div[@class=&quot;max-w-7xl mx-auto&quot;]/div[@class=&quot;space-y-4&quot;]/div[@class=&quot;rounded-lg shadow-lg p-6 mb-4 bg-white&quot;]/div[@class=&quot;mb-4&quot;]/div[@class=&quot;flex justify-between p-3 rounded mb-2 bg-gray-50&quot;]/span[@class=&quot;text-gray-900&quot;]</value>
+      <webElementGuid>104e2fcc-801b-494e-a494-9adbcd43ddba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[4]/div/div[3]/div[3]/span</value>
+      <webElementGuid>9b30125d-607c-48bc-8f95-115bb6c607b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Preparing'])[1]/preceding::span[4]</value>
+      <webElementGuid>ccc0ee8e-f1a3-4677-8288-33442ee28f44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Chocolate Chip Cookies']/parent::*</value>
+      <webElementGuid>755f21ee-5c91-4490-a49c-5ee44739e7c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/span</value>
+      <webElementGuid>1da12545-eb9b-4123-a7b3-ff1a318874c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Chocolate Chip Cookies x1' or . = 'Chocolate Chip Cookies x1')]</value>
+      <webElementGuid>528d8b2b-1b07-45c4-a807-a5e82ddaf38c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
