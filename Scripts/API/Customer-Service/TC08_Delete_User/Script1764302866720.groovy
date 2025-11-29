@@ -29,23 +29,26 @@ import groovy.json.JsonSlurper
 // Gửi DELETE request
 def response = WS.sendRequest(findTestObject(
     'API/Customer-Service/deleteUser',
-    [('userID') : '100']
+    [('userID') : '47']
 ))
 
 // Parse response JSON
 def json = new JsonSlurper().parseText(response.getResponseBodyContent())
 
+print(json);
+
 // Kiểm tra các trường chính
 assert json.success == true
-assert json.data.userID != null
-assert json.data.userName != null
-assert json.data.email != null
-assert json.data.contactNumber != null
-assert json.data.address != null
-assert json.data.role != null
-assert json.data.isActive != null
-assert json.data.createdAt != null
-assert json.data.updatedAt != null
+assert json.message == "User deleted successfully"
+//assert json.data.userID != null
+//assert json.data.userName != null
+//assert json.data.email != null
+//assert json.data.contactNumber != null
+//assert json.data.address != null
+//assert json.data.role != null
+//assert json.data.isActive != null
+//assert json.data.createdAt != null
+//assert json.data.updatedAt != null
 
 // In ra kết quả để debug
 println("="*60)

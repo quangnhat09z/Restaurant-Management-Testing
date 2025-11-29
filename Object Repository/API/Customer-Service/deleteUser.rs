@@ -11,7 +11,7 @@
       <authorizationInfo>
          <entry>
             <key>bearerToken</key>
-            <value>eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOjEsImVtYWlsIjoidXNlcjFAZXhhbXBsZS5jb20iLCJ1c2VyTmFtZSI6IlVzZXIxIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzY0Mjk5MTkxLCJleHAiOjE3NjQzODU1OTF9.u_PRhGHwPuFv2bw8eyLbiq48sqhCeSJBQWYlKqnCkqw</value>
+            <value>eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOjEsImVtYWlsIjoidXNlcjFAZXhhbXBsZS5jb20iLCJ1c2VyTmFtZSI6IlVzZXIxIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzY0NDI4MTM1LCJleHAiOjE3NjUwMzI5MzV9.0_Jf6iI8LjsDnWwktj-_ZxXFPTY1eOh0RlMnrIxbkqM</value>
          </entry>
       </authorizationInfo>
       <authorizationType>Bearer</authorizationType>
@@ -27,15 +27,15 @@
       <matchCondition>equals</matchCondition>
       <name>Authorization</name>
       <type>Main</type>
-      <value>Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOjEsImVtYWlsIjoidXNlcjFAZXhhbXBsZS5jb20iLCJ1c2VyTmFtZSI6IlVzZXIxIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzY0Mjk5MTkxLCJleHAiOjE3NjQzODU1OTF9.u_PRhGHwPuFv2bw8eyLbiq48sqhCeSJBQWYlKqnCkqw</value>
-      <webElementGuid>fd087fd1-f6a5-41e8-93de-5c2d63454c36</webElementGuid>
+      <value>Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOjEsImVtYWlsIjoidXNlcjFAZXhhbXBsZS5jb20iLCJ1c2VyTmFtZSI6IlVzZXIxIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzY0NDI4MTM1LCJleHAiOjE3NjUwMzI5MzV9.0_Jf6iI8LjsDnWwktj-_ZxXFPTY1eOh0RlMnrIxbkqM</value>
+      <webElementGuid>15605c29-c65f-4b5f-b66b-316df7aaca9a</webElementGuid>
    </httpHeaderProperties>
    <katalonVersion>10.4.2</katalonVersion>
    <maxResponseSize>0</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
    <path></path>
-   <restRequestMethod>GET</restRequestMethod>
-   <restUrl>http://localhost:3003/customers/100</restUrl>
+   <restRequestMethod>DELETE</restRequestMethod>
+   <restUrl>http://localhost:3003/customers/47</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>
