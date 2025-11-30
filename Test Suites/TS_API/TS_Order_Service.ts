@@ -35,14 +35,14 @@
    <testCaseLink>
       <guid>25c9bf30-40fd-4ab8-8e37-13a62123521d</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/API/Order-Service/TC04_Update_Order_Status</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>38c03fab-2cc1-4500-807a-8fae020729e2</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/API/Order-Service/TC05_Delete_Order</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>

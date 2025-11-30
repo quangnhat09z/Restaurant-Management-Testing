@@ -37,6 +37,8 @@ WebUI.click(findTestObject('Object Repository/Frontend/Home/TC17/Page_Vite  Reac
 
 WebUI.click(findTestObject('Object Repository/Frontend/Home/TC17/Page_Vite  React/button_Add to Cart_3'))
 
+
+
 WebUI.verifyElementText(findTestObject('Object Repository/Frontend/Home/TC17/Page_Vite  React/td_Classic Margherita Pizza'), 
     'Classic Margherita Pizza')
 
@@ -59,6 +61,7 @@ WebUI.setText(findTestObject('Object Repository/Frontend/Home/TC17/Page_Vite  Re
 WebUI.verifyElementText(findTestObject('Object Repository/Frontend/Home/TC17/Page_Vite  React/button_Place Order'), 'Place Order')
 
 WebUI.click(findTestObject('Object Repository/Frontend/Home/TC17/Page_Vite  React/button_Place Order'))
+
 
 WebUI.click(findTestObject('Object Repository/Frontend/Home/TC17/Page_Vite  React/li_Orders'))
 

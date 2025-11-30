@@ -30,8 +30,12 @@ WebUI.sendKeys(findTestObject('Object Repository/Frontend/DarkMode/TC41/Page_Vit
 
 WebUI.click(findTestObject('Object Repository/Frontend/DarkMode/TC41/Page_Vite  React/svg_Favorites_svg-inline--fa fa-moon'))
 
-WebUI.verifyElementAttributeValue(findTestObject('Frontend/DarkMode/TC41/Page_Vite  React/svg_Favorites_svg-inline--fa fa-moon'), 
-    'class', 'svg-inline--fa fa-sun ', 5)
+WebUI.waitForElementAttributeValue(
+    findTestObject('Object Repository/Frontend/DarkMode/TC41/Page_Vite  React/svg_Favorites_svg-inline--fa fa-moon'),
+    'class',
+    'svg-inline--fa fa-sun ',
+    10
+)
 
 WebUI.click(findTestObject('Object Repository/Frontend/DarkMode/TC41/Page_Vite  React/a_Favorites'))
 

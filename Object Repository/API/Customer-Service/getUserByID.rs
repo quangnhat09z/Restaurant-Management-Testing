@@ -35,7 +35,7 @@
    <migratedVersion>5.4.1</migratedVersion>
    <path></path>
    <restRequestMethod>GET</restRequestMethod>
-   <restUrl>http://localhost:3003/customers/47</restUrl>
+   <restUrl>http://localhost:3003/customers/3</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>
