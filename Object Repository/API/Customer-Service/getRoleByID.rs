@@ -11,7 +11,7 @@
       <authorizationInfo>
          <entry>
             <key>bearerToken</key>
-            <value>eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOjEsImVtYWlsIjoidXNlcjFAZXhhbXBsZS5jb20iLCJ1c2VyTmFtZSI6IlVzZXIxIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzY0NDI4MTM1LCJleHAiOjE3NjUwMzI5MzV9.0_Jf6iI8LjsDnWwktj-_ZxXFPTY1eOh0RlMnrIxbkqM</value>
+            <value>eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOjEsImVtYWlsIjoidXNlcjFAZXhhbXBsZS5jb20iLCJ1c2VyTmFtZSI6IlVzZXIxIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzY0NTQ5MzUyLCJleHAiOjE3NjQ1NTAyNTJ9.70phIHaLQ9pTQ7gwVRQNw9t25MgRy8yWuaUDd1didvo</value>
          </entry>
       </authorizationInfo>
       <authorizationType>Bearer</authorizationType>
@@ -27,8 +27,8 @@
       <matchCondition>equals</matchCondition>
       <name>Authorization</name>
       <type>Main</type>
-      <value>Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOjEsImVtYWlsIjoidXNlcjFAZXhhbXBsZS5jb20iLCJ1c2VyTmFtZSI6IlVzZXIxIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzY0NDI4MTM1LCJleHAiOjE3NjUwMzI5MzV9.0_Jf6iI8LjsDnWwktj-_ZxXFPTY1eOh0RlMnrIxbkqM</value>
-      <webElementGuid>732d0de2-7c4a-4879-b2e0-fca8b5b5a04b</webElementGuid>
+      <value>Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOjEsImVtYWlsIjoidXNlcjFAZXhhbXBsZS5jb20iLCJ1c2VyTmFtZSI6IlVzZXIxIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzY0NTQ5MzUyLCJleHAiOjE3NjQ1NTAyNTJ9.70phIHaLQ9pTQ7gwVRQNw9t25MgRy8yWuaUDd1didvo</value>
+      <webElementGuid>e843940d-a0a0-4763-b45d-1028284bee35</webElementGuid>
    </httpHeaderProperties>
    <katalonVersion>10.4.2</katalonVersion>
    <maxResponseSize>0</maxResponseSize>

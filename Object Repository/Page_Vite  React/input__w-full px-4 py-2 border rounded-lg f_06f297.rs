@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input__w-full px-4 py-2 border rounded-lg f_06f297</name>
+   <tag></tag>
+   <elementGuidId>fd9c4dcc-ee69-4fe8-ad6e-e944ff719618</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Enter table number&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>b97ec78a-2ef2-46da-ab43-80fc08323746</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>number</value>
+      <webElementGuid>7020ea08-26c8-447c-beec-40f033cbe660</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Enter table number</value>
+      <webElementGuid>36c6b3cc-95a6-4adf-85ac-f0b54c237d67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full px-4 py-2 border rounded-lg focus:ring-2 focus:outline-none bg-white border-gray-300 text-gray-900 focus:ring-pink-600</value>
+      <webElementGuid>ed8ab6f3-f61d-4145-8da2-076ccd127bde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>min</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>174694b4-bc5a-4657-b34e-6b9aa9586ece</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;min-h-screen transition duration-300 bg-white text-black&quot;]/div[@class=&quot;min-h-screen bg-white text-black&quot;]/div[@class=&quot;container mx-auto p-4&quot;]/div[@class=&quot;fixed inset-0 z-50 flex items-center justify-center bg-opacity-75 transition-opacity duration-300 bg-gray-900/50&quot;]/div[@class=&quot;relative w-full max-w-sm mx-auto p-6 rounded-lg shadow-2xl transform transition-transform duration-300 bg-white text-gray-900&quot;]/form[@class=&quot;space-y-4&quot;]/div[1]/input[@class=&quot;w-full px-4 py-2 border rounded-lg focus:ring-2 focus:outline-none bg-white border-gray-300 text-gray-900 focus:ring-pink-600&quot;]</value>
+      <webElementGuid>b260dd77-9323-4a54-ad5e-a40b685e8972</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+      <webElementGuid>a7da48de-7f81-4fc8-9a42-2dbd24b9aa2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div/form/div/input</value>
+      <webElementGuid>8e637d45-321a-49a3-8395-7aad6ad900c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>e9e64043-3d7c-4c5b-8484-1d5949c704a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'number' and @placeholder = 'Enter table number']</value>
+      <webElementGuid>ce36106a-9d49-4596-81ed-eb5b9492182b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
