@@ -15,56 +15,56 @@
       <guid>564f75cc-ba7e-4471-b775-cc7d71681ca7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>false</isRun>
-      <testCaseId>Test Cases/FE_Login/TC_ButtonProperties</testCaseId>
+      <testCaseId>Test Cases/Login/TC_ButtonProperties</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>bc44c6c3-9682-4c83-8348-727eca3ddfc4</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>false</isRun>
-      <testCaseId>Test Cases/FE_Login/TC_InputFieldsProperties</testCaseId>
+      <testCaseId>Test Cases/Login/TC_InputFieldsProperties</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>bc0ed827-b114-4787-8e78-a1e848c798d5</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>false</isRun>
-      <testCaseId>Test Cases/FE_Login/TC_KeyboradInteraction</testCaseId>
+      <testCaseId>Test Cases/Login/TC_KeyboradInteraction</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>682e3f08-d132-40d6-aad5-7bba30583e0e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>false</isRun>
-      <testCaseId>Test Cases/FE_Login/TC_LayoutDisplayLogin</testCaseId>
+      <testCaseId>Test Cases/Login/TC_LayoutDisplayLogin</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>7ccb1001-be5e-414c-8704-43b4dcc5b0ad</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>false</isRun>
-      <testCaseId>Test Cases/FE_Login/TC_ResponsiveDesign</testCaseId>
+      <testCaseId>Test Cases/Login/TC_ResponsiveDesign</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>bac5faaa-3551-4696-8c48-68469eaac283</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>false</isRun>
-      <testCaseId>Test Cases/FE_Login/TC_Validation</testCaseId>
+      <testCaseId>Test Cases/Login/TC_Validation</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>c617f134-e855-40db-9dcf-531c82a1a975</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>false</isRun>
-      <testCaseId>Test Cases/FE_Login/TC_Navigation</testCaseId>
+      <testCaseId>Test Cases/Login/TC_Navigation</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>66d57ca0-9543-4515-9ae3-554ce1b699c7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>false</isRun>
-      <testCaseId>Test Cases/FE_Login/TC_LoginFailed</testCaseId>
+      <testCaseId>Test Cases/Login/TC_LoginFailed</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>3e506418-cf66-40ff-90b8-2064af340acd</id>
@@ -92,7 +92,7 @@
       <guid>353a7773-2526-4f19-99e3-250e40451a22</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/FE_Login/TC_LoginPass</testCaseId>
+      <testCaseId>Test Cases/Login/TC_LoginPass</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>6eb4e068-f4ab-4748-ba69-430eeeb72005</id>
